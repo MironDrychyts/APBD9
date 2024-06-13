@@ -148,3 +148,4 @@ C:\Users\oxyfa\OneDrive\Рабочий стол\DotnetAPBD\WebApplication2\WebAp
 C:\Users\oxyfa\OneDrive\Рабочий стол\DotnetAPBD\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\oxyfa\OneDrive\Рабочий стол\DotnetAPBD\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\oxyfa\OneDrive\Рабочий стол\DotnetAPBD\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oxyfa\OneDrive\Рабочий стол\DotnetAPBD\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json
